@@ -17,4 +17,4 @@ The course also has the following 5 projects:
    4) Translation project
    5) Generate faces
 
-In this repo you will find 11 subfolders, one for each part/project of the course. Each folder contains related material, notebooks and programs for the respective part/project and also has a *Readme.md* file with main information and the structure of this part/project.
+In this repo you will find 11 subfolders, one for each part/project of the course. Each folder contains related material, notebooks and programs for the respective part/project and also has a *Readme.md* file with the main information and the structure of this part/project.
