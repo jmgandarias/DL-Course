@@ -1,6 +1,6 @@
 # Deep-Learning-Nanodegree
 
-This repo coontains material about my own experience in the *Udacity Deep Learning Foundation Nanodegree Program* (https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
+This repo coontains material about my own experience doing the *Udacity Deep Learning Foundation Nanodegree Program* (https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 The course is structured in 5 parts:  
    1) Introductions
